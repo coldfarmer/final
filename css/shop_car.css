@@ -1,0 +1,30 @@
+.shop_car{
+    display: none;
+    /* display: block; */
+    position: fixed;
+    top:0px;
+    width: 100%;
+    margin: auto;
+    height: 100%;
+    z-index: 99998;
+    background-color: rgba(100, 100, 100, 0.9);
+}
+.shop_car.show1{
+    display: block!important;
+}
+.shop_car_inside{
+    border-radius: 6px;
+    width: 400px;
+    margin: auto;
+    margin-top: 5%;
+    height: 500px;
+    z-index: 99999;
+    background-color: rgba(30,30,30,0.9);
+}
+.shop_car_inside .title{
+    border-bottom: 1px solid rgba(100, 100, 100, 0.9);
+    padding: 15px;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
