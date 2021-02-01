@@ -276,13 +276,13 @@ body{
   transform:scale(1.03,1.03);
 }
 .product_image_small{
-  border: 1px solid green;
+  /* border: 1px solid green; */
   width: 1140px;
   overflow: hidden;
   margin: auto;
 }
 .product_image_small .item{
-  border: 1px solid red;
+  /* border: 1px solid red; */
   height: 148px;
   overflow: hidden;
 }
