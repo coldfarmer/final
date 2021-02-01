@@ -99,14 +99,14 @@ body{
     width: 100%;
   }
   .top_list .container {
-    border: 1px solid green;
+    /* border: 1px solid green; */
     width: 100%;
     align-items:center;
     display: flex;
   }
   .front_item{
     width: 700px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin-right: 15px;
     /* margin-top: 2px;
     margin-right: 50px; */
@@ -114,7 +114,7 @@ body{
 
   .behind_item{
     width: 550px;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
   }
   
   div.container ul li a{
@@ -144,7 +144,7 @@ body{
     padding-bottom:10px;
     display: inline-block;
     margin-left: 20%;
-    border: 1px solid green;
+    /* border: 1px solid green; */
   }
 }
 @media(max-width:767px){
