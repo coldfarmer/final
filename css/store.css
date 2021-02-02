@@ -574,7 +574,7 @@ body{
   align-items: flex-start;
   z-index:99!important;
   width: 20%;
-  height: 620px;
+  height: 660px;
   transition: all 1s ease 0s;
   background-color: rgb(40,40,40,0.6);
   transition: all 1s ease 0s;
@@ -589,6 +589,7 @@ body{
   text-align: left;
   width: 120px;
   margin:5px 10% 10px 10%;
+  /* background-color: rgb(40,40,40,0.6); */
 }
 .store_sellitem .flitter .title{
   font-size: 16px;
