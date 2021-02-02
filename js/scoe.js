@@ -3,18 +3,18 @@ $(document).ready(function(){
         scroll(0,0);
         $('.imgvdeo').css('background-color','rgba(100,100,100,0.7)');
         $('.game_intro').css('background-color','');
-        $('.Adv_bar').css('background-color','');
+        $('.system').css('background-color','');
         $('.evaluation').css('background-color','');
-        $('.Adv_bar').css('background-color','');
+        $('.data').css('background-color','');
     });
     
     $('.game_intro').click(function () {
         scroll(0,600);
         $('.imgvdeo').css('background-color','');
         $('.game_intro').css('background-color','rgba(100,100,100,0.7)');
-        $('.Adv_bar').css('background-color','');
+        $('.system').css('background-color','');
         $('.evaluation').css('background-color','');
-        $('.Adv_bar').css('background-color','');
+        $('.data').css('background-color','');
     });
     $('.data').click(function () {
          scroll(0,1200);

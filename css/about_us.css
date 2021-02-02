@@ -55,6 +55,9 @@ body{
   margin-top: 2px;
   margin-right: 50px;
 }
+.front_item .aboutus a{
+  color: aqua;
+}
 @media (min-width:768px){
 .container ul{
   /* border: 1px solid green; */
