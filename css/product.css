@@ -379,7 +379,7 @@ body{
   display: flex;
   margin: auto;
   margin-top: 30px;
-  z-index: 9999;
+  z-index: 999;
   transition: all 1s;
 }
 
